@@ -1,7 +1,7 @@
-# Hey 👋, I'm Munachimso Henry  
+# Hey, I'm Munachimso Henry 👋 
 
-🎓 Electrical & Electronics Engineering undergrad at Covenant University
-🔧 Passionate about electronics projects, embedded systems, and robotics
+🎓 Electrical & Electronics Engineering undergrad at Covenant University\
+🔧 Passionate about electronics projects, embedded systems, and robotics\
 📡 Member of IEEE Sensors Council & Google Developer Student Club  
 
 ---
