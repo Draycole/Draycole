@@ -29,5 +29,5 @@ Check more projects on my [Portfolio Website](https://munachimsohenry.wixsite.co
 ---
 
 ## 🌍 Connect with Me
-- 🌐 [Portfolio Website](https://munachimsohenry.wixsite.com/my-site)  
+- 🌐 [Portfolio](https://munachimsohenry.wixsite.com/my-site)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)   
