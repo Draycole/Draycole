@@ -6,7 +6,7 @@
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Weapons of Warfare
 - **Languages:** C/C++, Python, MATLAB  
 - **Hardware & Tools:** Arduino, KiCad, Multisim, PSpice, Tinkercad  
 - **Interests:** IoT • PCB Design • Robotics • Embedded Systems  
