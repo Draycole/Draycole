@@ -2,7 +2,7 @@
 
 🎓 Electrical & Electronics Engineering undergrad at Covenant University\
 🔧 Passionate about electronics projects, embedded systems, and robotics\
-📡 Member of IEEE Instrumentation & Measurement Soceity (IEEE IMS) & RObotics COlead @ Google Developer Student Club  
+📡 Member of IEEE Instrumentation & Measurement Soceity (IEEE IMS) & Robotics Co-lead @ Google Developer Student Clubs : Covenant University
 
 ---
 
