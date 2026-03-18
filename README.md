@@ -10,7 +10,7 @@
 
 ## ⚡ Tech Stack
 - **Languages:** C/C++, Python, MATLAB  
-- **Hardware & Tools:** Raspberry Pi • Arduino • KiCad, Multisim, PSpice, Tinkercad  
+- **Hardware & Tools:** Raspberry Pi • Arduino • KiCad • Multisim • PSpice • Tinkercad  
 - **Interests:** IoT • PCB Design • Robotics • Embedded Systems  
 
 ---
