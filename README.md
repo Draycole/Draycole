@@ -11,7 +11,7 @@
 ## ⚡ Tech Stack
 - **Languages:** C/C++, Python, MATLAB  
 - **Hardware:** STM32 • Raspberry Pi • ESP32 • Arduino
-- **Tools:** KiCad • Multisim • PSpice 
+- **Tools:** KiCad •  • Multisim • PSpice 
 - **Interests:** IoT • PCB Design • Robotics • Embedded Systems  
 
 ---
