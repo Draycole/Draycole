@@ -1,6 +1,6 @@
 # Hey, I'm Munachimso Henry 👋 
 
-🎓 Electrical & Electronics Engineering @ Covenant University\
+🎓 Electrical & Electronics Engineering @ Covenant University\ 
 🤖 Robotics Co-lead @ Google Developer Student Clubs\
 📡 Student Member, IEEE Instrumentation & Measurement Soceity (IEEE IMS)\
 🔧 Passionate about electronics projects, embedded systems, and robotics
