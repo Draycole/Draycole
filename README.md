@@ -1,9 +1,12 @@
-<h1 align="center">Hey, I'm Munachimso Henry 👋</h1>
-
+<h1 align="center">Hey, I'm Munachimso Henry 👋</h1> <br>
 
 <div align="center">🎓 Electrical & Electronics Engineering @ Covenant University</div>
+<!--<div align="center"> • </div>-->
 <div align="center"> 🤖 Robotics Co-lead @ Google Developer Student Clubs</div>
+<!--<div align="center"> • </div> -->
 <div align="center">📡 Student Member, IEEE Instrumentation & Measurement Soceity</div>
+<!--<div align="center"> • </div>-->
+<br>
 
 ---
 
