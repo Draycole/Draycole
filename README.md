@@ -1,8 +1,9 @@
-<h1 align="center">Hey, I'm Munachimso Henry 👋</h1> <br>
-
-🎓 Electrical & Electronics Engineering @ Covenant University\
-🤖 Robotics Co-lead @ Google Developer Student Clubs\
-📡 Student Member, IEEE Instrumentation & Measurement Soceity (IEEE IMS)
+<h1 align="center">Munachimso Henry</h1> <p align="center"><i>Embedded systems engineer building things that live at the boundary of hardware and code.</i></p> 
+<p align="center"> 
+<img src="https://img.shields.io/badge/EEE_Student-Covenant_University-green?style=flat-square" /> 
+<img src="https://img.shields.io/badge/IEEE-I%26M_Society-00629B?style=flat-square&logo=ieee&logoColor=white" /> 
+<img src="https://img.shields.io/badge/GDG-Robotics_Co--Lead-red?style=flat-square&logo=google&logoColor=white" /> 
+</p>
 
 <!--
 <div align="center">🎓 Electrical & Electronics Engineering @ Covenant University</div>
