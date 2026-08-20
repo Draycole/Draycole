@@ -2,7 +2,7 @@
 
 🎓 Electrical & Electronics Engineering @ Covenant University\
 🤖 Robotics Co-lead @ Google Developer Student Clubs\
-📡 Student Member, IEEE Instrumentation & Measurement Soceity (IEEE IMS)\
+📡 Student Member, IEEE Instrumentation & Measurement Soceity (IEEE IMS)
 
 <!--
 <div align="center">🎓 Electrical & Electronics Engineering @ Covenant University</div>
