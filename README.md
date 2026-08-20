@@ -1,4 +1,4 @@
-<h1 align="center">Munachimso Henry</h1> <p align="center"><i>Embedded systems | Robotics | STEM Education <br> building things that live at the boundary of hardware and code.</i></p> 
+<h1 align="center">Munachimso Henry</h1> <p align="center"><i>Embedded systems | Robotics Research | Electronics Design | STEM Education <br> Building things that live at the boundary of hardware and code.</i></p> 
 <p align="center"> 
 <img src="https://img.shields.io/badge/EEE_Student-Covenant_University-green?style=flat-square" /> 
 <img src="https://img.shields.io/badge/IEEE-I%26M_Society-00629B?style=flat-square&logo=ieee&logoColor=white" /> 
