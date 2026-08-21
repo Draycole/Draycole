@@ -1,7 +1,6 @@
 <h1 align="center">Munachimso Henry</h1> <p align="center"><i>Embedded systems | Robotics Research | Electronics Design | STEM Education <br> Building to solve problems.</i></p> 
 <p align="center"> 
-<img src="https://img.shields.io/badge/🎓%20EEE_Student-Covenant_University-green?style=flat-square" />
-<img src="https://img.shields.io/badge/EEE_Student-Covenant_University-green?style=flat-square&logo=instagram&logoColor=white" /> 
+<img src="https://img.shields.io/badge/🎓%20Covenant_University-EEE_Student-green?style=flat-square" />
 <img src="https://img.shields.io/badge/IEEE-I%26M_Society-00629B?style=flat-square&logo=ieee&logoColor=white" /> 
 <img src="https://img.shields.io/badge/GDG-Robotics_Co--Lead-red?style=flat-square&logo=google&logoColor=white" /> 
 </p>
