@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/IEEE-I%26M_Society-00629B?style=flat-square&logo=ieee&logoColor=white" /> 
 <img src="https://img.shields.io/badge/GDG-Robotics_Co--Lead-red?style=flat-square&logo=google&logoColor=white" /> 
 </p>
-       
+
 <!--
 <div align="center">🎓 Electrical & Electronics Engineering @ Covenant University</div>
 <!--<div align="center"> • </div>-->
