@@ -5,6 +5,8 @@
 <img src="https://img.shields.io/badge/GDG-Robotics_Co--Lead-red?style=flat-square&logo=google&logoColor=white" /> 
 </p>
 
+I write bare-metal C for microcontrollers (mostly the Pico and STM32), and work backward from first principles rather than copying libraries. Recent work: driving an ST7735 TFT over raw SPI, streaming IMU data into a physics sim, and deriving an inverted pendulum's control law from the Lagrangian up.
+
 <!--
 <div align="center">🎓 Electrical & Electronics Engineering @ Covenant University</div>
 <!--<div align="center"> • </div>-->
