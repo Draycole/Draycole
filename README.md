@@ -7,6 +7,8 @@
 
 I write bare-metal C for microcontrollers (mostly the Pico and STM32), and work backward from first principles rather than copying libraries. Recent work: driving an ST7735 TFT over raw SPI, streaming IMU data into a physics sim, and deriving an inverted pendulum's control law from the Lagrangian up. 
 
+yhuppp
+
 <!--
 <div align="center">🎓 Electrical & Electronics Engineering @ Covenant University</div>
 <!--<div align="center"> • </div>-->
