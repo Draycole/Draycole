@@ -21,7 +21,8 @@ I write bare-metal C for microcontrollers (mostly the Pico and STM32), and work 
 - **Firmware:** `C` • `C++` • Pico SDK • STM32 HAL
 - **Languages:** C/C++, Python, MATLAB  
 - **Hardware:** STM32 • Raspberry Pi • ESP32 • Arduino
-- **Tools:** KiCad • CubeIDE • Multisim • PSpice 
+- **Tools:** KiCad • CubeIDE • Multisim • PSpice
+- **Also:**
 - **Interests:** IoT • PCB Design • Robotics • Embedded Systems  
 
 ---
