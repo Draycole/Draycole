@@ -36,6 +36,27 @@ Check more projects on my [Portfolio Website](https://munachimsohenry.wixsite.co
 
 ---
 
+### Building right now
+
+**[ST7735 TFT Driver — Bare Metal](#)**
+A complete display driver for the Pico written from scratch: SPI init, a layered command/pixel API, and a bitmap font renderer built without any graphics library. Currently being ported to the STM32F103.
+`C` `Pico SDK` `SPI`
+
+**[Drone Digital Twin](#)**
+MPU6050 IMU data streamed over USB serial from a Pico into a live PyBullet simulation, so the physical rig and its digital twin move together in real time.
+`C` `Python` `PyBullet` `Sensor Fusion`
+
+**[Inverted Pendulum — LQR Control](#)**
+A self-directed control theory build: full Lagrangian derivation, nonlinear equations of motion, linearization, state-space modeling, and LQR gain computation — simulated end to end before any hardware touch.
+`Python` `NumPy` `SciPy` `Control Theory`
+
+**[AtmosLog](#)**
+Environmental logger with a TFT display, SD card storage over FatFs, Bluetooth, and a live Python visualization dashboard. The project that took me from Arduino to real embedded architecture.
+`C++` `Arduino` `FatFs` `Bluetooth`
+
+*More builds — including the SD card FatFs driver and an ongoing SIM800L GSM integration for SMS over AT commands — are in progress or on my [portfolio](https://munachimsohenry.wixsite.com/my-site).*
+---
+
 ## 📊 GitHub Stats
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Draycole&show_icons=true&theme=radical)  -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draycole&layout=compact&theme=radical)  
