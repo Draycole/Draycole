@@ -58,7 +58,7 @@ More builds — including the SD card FatFs driver and an ongoing SIM800L GSM in
 ---
 
 ## 📊 GitHub Stats
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Draycole&show_icons=true&theme=radical)  -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Draycole&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Draycole&layout=compact&theme=radical)  
 
 ---
