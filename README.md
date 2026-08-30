@@ -42,7 +42,7 @@ Check more projects on my [Portfolio Website](https://munachimsohenry.wixsite.co
 A complete display driver for the Pico written from scratch: SPI init, a layered command/pixel API, and a bitmap font renderer built without any graphics library. Currently being ported to the STM32F103.
 `C` `Pico SDK` `SPI`
 
-**[Drone Digital Twin](#)**
+**[Drone Digital Twin](https://github.com/Draycole/gdg-roboticsresources/tree/main/drone%20build)**
 MPU6050 IMU data streamed over USB serial from a Pico into a live PyBullet simulation, so the physical rig and its digital twin move together in real time.
 `C` `Python` `PyBullet` `Sensor Fusion`
 
