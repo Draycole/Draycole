@@ -2,7 +2,8 @@
 <p align="center"> 
 <img src="https://img.shields.io/badge/🎓%20Covenant_University-EEE_Undergrad-green?style=flat-square" />
 <img src="https://img.shields.io/badge/IEEE-I%26M_Society-00629B?style=flat-square&logo=ieee&logoColor=white" /> 
-<img src="https://img.shields.io/badge/GDG-Robotics_Co--Lead-red?style=flat-square&logo=google&logoColor=white" /> 
+<img src="https://img.shields.io/badge/GDG-Robotics_Co--Lead-red?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/YouTube-STEM Educator-A220F4?style=flat-square&logo=youtube&logoColor=white" />
 </p>
 
 I write bare-metal C for microcontrollers (mostly the Pico and STM32), and work backward from first principles rather than copying libraries. Recent work: driving an ST7735 TFT over raw SPI, streaming IMU data into a physics sim, and deriving an inverted pendulum's control law from the Lagrangian up.
