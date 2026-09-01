@@ -37,7 +37,7 @@ Check more projects on my [Portfolio Website](https://munachimsohenry.wixsite.co
 
 ---
 
-### Building right now
+## Building right now
 
 **[ST7735 TFT Driver — Bare Metal](#)**
 A complete display driver for the Pico written from scratch: SPI init, a layered command/pixel API, and a bitmap font renderer built without any graphics library. Currently being ported to the STM32F103.
