@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/YouTube-STEM Educator-A220F4?style=flat-square&logo=youtube&logoColor=white" />
 </p>
 
-I write bare-metal C for microcontrollers (mostly the Pico and STM32), and work backward from first principles rather than copying libraries. Recent work: driving an ST7735 TFT over raw SPI, streaming IMU data into a physics sim, and deriving an inverted pendulum's control law from the Lagrangian up.
+I write bare-metal C for microcontrollers (mostly the Pico and STM32), and do work on the maths behind robotics. I build electronics and teach engineering online. All-round amazing person if you ask me. Recent work: driving an ST7735 TFT over raw SPI, streaming IMU data into a physics sim, and deriving an inverted pendulum's control law from the Lagrangian.
 
 <!--
 <div align="center">🎓 Electrical & Electronics Engineering @ Covenant University</div>
