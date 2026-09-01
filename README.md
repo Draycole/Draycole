@@ -55,7 +55,7 @@ A self-directed control theory build: full Lagrangian derivation, nonlinear equa
 Environmental logger with a TFT display, SD card storage over FatFs, Bluetooth, and a live Python visualization dashboard. The project that took me from Arduino to real embedded architecture.
 `C++` `Arduino` `FatFs` `Bluetooth`
 
-More builds — including the SD card FatFs driver and an ongoing SIM800L GSM integration for SMS over AT commands — are in progress or on my [portfolio](https://munachimsohenry.wixsite.com/my-site).
+***More builds — including the SD card FatFs driver and an ongoing SIM800L GSM integration for SMS over AT commands — are in progress or on my [portfolio](https://munachimsohenry.wixsite.com/my-site).***
 ---
 
 ## 📊 GitHub Stats
