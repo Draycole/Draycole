@@ -31,7 +31,7 @@ I write bare-metal C for microcontrollers (mostly the Pico and STM32), and do wo
 - **[ATLAS (Arduino Tripwire Laser Alarm System)](https://munachimsohenry.wixsite.com/my-site/atlas)** – A security system using laser, photoresistor, and IR override.
 - **[Binary Calculator](https://github.com/Kohwarien-Onotoghene/Automated-Wastebin-SWEP2025)** – Binary LED arithmetic unit   
 - **[Auto Smart Bin](https://github.com/Kohwarien-Onotoghene/Automated-Wastebin-SWEP2025)** – Automated ultrasonic-based wastebin.
-- **[AtmosLog](https://munachimsohenry.wixsite.com/my-site/copy-of-project-5-pyrosafe-monitor)** – Environment surrounding  temperature/humidity monitor with to SD card, display & Bluetooth and Python live graph.  
+- **[AtmosLog](https://munachimsohenry.wixsite.com/my-site/copy-of-project-5-pyrosafe-monitor)** – Environment temperature/humidity monitor with to SD card, display & Bluetooth and Python live graph.  
 
 Check more projects on my [Portfolio Website](https://munachimsohenry.wixsite.com/my-site) 🌐  
 
