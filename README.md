@@ -22,7 +22,6 @@ I write bare-metal C for microcontrollers (mostly the Pico and STM32), and do wo
   </a>
 </p>  
 
-[![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Draycole&show_icons=true&theme=radical" />
