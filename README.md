@@ -16,6 +16,21 @@ I write bare-metal C for microcontrollers (mostly the Pico and STM32), and do wo
 <!--<div align="center">📡 Student Member, IEEE Instrumentation & Measurement Soceity</div>
 <!--<div align="center"> • </div>-->
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://demolab.com" alt="GitHub Streak" />
+  </a>
+</p>  
+
+[![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Draycole&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Draycole&theme=radical" />
+</div>
+
+
+
 ---
 
 ## ⚡ Stack
