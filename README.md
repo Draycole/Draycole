@@ -17,13 +17,6 @@ I write bare-metal C for microcontrollers (mostly the Pico and STM32), and do wo
 <!--<div align="center"> • </div>-->
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Draycole&show_icons=true&theme=radical" alt=""/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Draycole&theme=radical" />
-</div>
-
-
-
 ---
 
 ## ⚡ Stack
@@ -69,7 +62,11 @@ Environmental logger with a TFT display, SD card storage over FatFs, Bluetooth, 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Draycole&show_icons=true&theme=radical)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Draycole&show_icons=true&theme=radical" alt=""/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Draycole&theme=radical" />
+</div>
+ 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Draycole&layout=compact&theme=radical)  
 
 ---
