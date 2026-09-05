@@ -66,8 +66,6 @@ Environmental logger with a TFT display, SD card storage over FatFs, Bluetooth, 
   <img src="https://github-readme-stats.vercel.app/api?username=Draycole&show_icons=true&theme=radical" alt=""/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Draycole&theme=radical" />
 </div>
- 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Draycole&layout=compact&theme=radical)  
 
 ---
 
