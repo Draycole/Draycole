@@ -50,7 +50,7 @@ MPU6050 IMU data streamed over USB serial from a Pico into a live PyBullet simul
 
 **[Inverted Pendulum — LQR Control](#)**
 A self-directed control theory build: full Lagrangian derivation, nonlinear equations of motion, linearization, state-space modeling, and LQR gain computation — simulated end to end before any hardware touch.
-`Python` `NumPy` `SciPy` `Control Theory`
+`Python` `NumPy` `SciPy` `Control Theory` <br> <br> More builds — including teh SD Card FatFs driver and an ongoing SIM800L GSM integration for SMS over AT commands — are in progress or on my [portfolio](https://munachimsohenry.wixsite.com/my-site)
 
 More builds — including the SD card FatFs driver and an ongoing SIM800L GSM integration for SMS over AT commands — are in progress or on my [portfolio](https://munachimsohenry.wixsite.com/my-site)
 ---
