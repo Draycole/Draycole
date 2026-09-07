@@ -48,9 +48,9 @@ A complete display driver for the Pico written from scratch: SPI init, a layered
 MPU6050 IMU data streamed over USB serial from a Pico into a live PyBullet simulation, so the physical rig and its digital twin move together in real time.
 `C` `Python` `PyBullet` `Sensor Fusion`
 
-**[Inverted Pendulum — LQR Control](#)**
+- **[Inverted Pendulum — LQR Control](#)**
 A self-directed control theory build: full Lagrangian derivation, nonlinear equations of motion, linearization, state-space modeling, and LQR gain computation — simulated end to end before any hardware touch.
-`Python` `NumPy` `SciPy` `Control Theory` <br> <br> More builds — including teh SD Card FatFs driver and an ongoing SIM800L GSM integration for SMS over AT commands — are in progress or on my [portfolio](https://munachimsohenry.wixsite.com/my-site)
+`Python` `NumPy` `SciPy` `Control Theory` <br> <br> More builds — including the SD Card FatFs driver and an ongoing SIM800L GSM integration for SMS over AT commands — are in progress or on my [portfolio](https://munachimsohenry.wixsite.com/my-site)
 
 ---
 
