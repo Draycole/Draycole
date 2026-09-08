@@ -65,5 +65,9 @@ A self-directed control theory build: full Lagrangian derivation, nonlinear equa
 ---
 
 ## 🌍 Connect with Me
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrybejoy.06@gmail.com)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://munachimsohenry.wixsite.com/my-site)
+- [![Linkedin](https://img.shields.io/badge/Linkedin-00E5FF?style=for-the-badge&logo=inspire&logoColor=white)](https://linkedin.com/munachimso-henry)
+- 
 - 🌐 [Portfolio](https://munachimsohenry.wixsite.com/my-site)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)   
