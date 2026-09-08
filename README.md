@@ -69,7 +69,7 @@ A self-directed control theory build: full Lagrangian derivation, nonlinear equa
 <p align="center">
   <a href="mailto:henrybejoy.06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://munachimsohenry.wixsite.com/my-site"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/munachimso-henry/"><img src="https://shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=inspire&logoColor=white" alt="Linkedin"></a>
+  <a href="https://ng.linkedin.com/in/munachimso-henry/"><img src="https://shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=inspire&logoColor=white" alt="Linkedin"></a>
   <a href="https://substack.com/@heymisterhenry"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"></a>
   <a href="https://youtube.com/@munachimsohenry"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://researchgate.net/profile/Munachimso-Henry"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
