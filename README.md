@@ -23,7 +23,7 @@ I write bare-metal C for microcontrollers (mostly the Pico and STM32), and do wo
 - **Firmware:** `C` • `C++` • Pico SDK • STM32 HAL
 - **Hardware:** Raspberry Pi • ESP32 • STM32 • Arduino
 - **Tools:** KiCad • CubeIDE • Multisim • PSpice
-- **Also:** Python (NumPy, SciPy, MatPlotLib) • MATLAB
+- **Software** Python (NumPy, SciPy, MatPlotLib) • MATLAB
 - **Interests:** IoT • PCB Design • Robotics • Embedded Systems  
 
 ---
