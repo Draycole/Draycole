@@ -60,7 +60,6 @@ A self-directed control theory build: full Lagrangian derivation, nonlinear equa
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Draycole&theme=radical&cache_bust=123" />  
-  <img src="https://github-stats.vercel.app/api?username=Draycole&show_icons=true&theme=radical"/> <br>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Draycole&&layout=compact&show_icons=true&theme=radical" alt=""/>
 </div>
 
