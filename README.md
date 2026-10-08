@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Draycole&label=Profile%20views&color=0e75b6&style=flat" alt="munachimso" /> </p>
 
-<h1 align="center">Munachimso Henry</h1> <p align="center"><i>Embedded systems | Robotics Research | Electronics Design | STEM Education <br> Building to solve problems.</i></p> 
+<h1 align="center">Munachimso Henry</h1> <p align="center"><i>Embedded Systems | Robotics Research | Electronics Design | STEM Education <br> Building to solve problems.</i></p> 
 <p align="center"> 
 <img src="https://img.shields.io/badge/🎓%20Covenant_University-EEE_Undergrad-green?style=flat-square" />
 <img src="https://img.shields.io/badge/IEEE-I%26M_Society-00629B?style=flat-square&logo=ieee&logoColor=white" /> 
