@@ -50,7 +50,7 @@ A complete display driver for the Pico written from scratch: SPI init, a layered
 MPU6050 IMU data streamed over USB serial from a Pico into a live PyBullet simulation, so the physical rig and its digital twin move together in real time.
 `C` `Python` `PyBullet` `Sensor Fusion`
 
-- **[Inverted Pendulum Balancer— LQR Control](#)**
+- **[Inverted Pendulum Balancer— Reinforcement Learning](https://github.com/Draycole/mujoco-cartpole-rl)**
 A self-directed control theory build: full Lagrangian derivation, nonlinear equations of motion, linearization, state-space modeling, and LQR gain computation — simulated end to end before any hardware touch.
 `Python` `NumPy` `SciPy` `Control Theory`
 
