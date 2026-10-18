@@ -31,6 +31,7 @@ working on driving an ST7735 TFT over raw SPI, streaming IMU data into a physics
 ---
 
 ## 🚀 Featured Projects
+- **[Display Driver](https://munachimsohenry.wixsite.com/my-site/pico-st7735)** – Display driver for the ST7735 LCD Chip. 81-90% Efficiency on SPI bus throughput
 - **[ATLAS (Arduino Tripwire Laser Alarm System)](https://munachimsohenry.wixsite.com/my-site/atlas)** – A security system using laser, photoresistor, and IR override.
 - **[Binary Calculator](https://github.com/Kohwarien-Onotoghene/Automated-Wastebin-SWEP2025)** – Binary LED arithmetic unit   
 - **[Auto Smart Bin](https://github.com/Kohwarien-Onotoghene/Automated-Wastebin-SWEP2025)** – Automated ultrasonic-based wastebin.
