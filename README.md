@@ -25,7 +25,7 @@ working on driving an ST7735 TFT over raw SPI, streaming IMU data into a physics
 - **Firmware:** `C` • `C++` • Pico SDK • STM32 HAL
 - **Hardware:** Raspberry Pi • ESP32 • STM32 • Arduino
 - **Tools:** KiCad • CubeIDE • Multisim • PSpice
-- **Software** Python (NumPy, SciPy, MatPlotLib) • MATLAB
+- **Software:** Python (NumPy, SciPy, MatPlotLib) • MATLAB • MuJoCo
 - **Interests:** IoT • PCB Design • Robotics • Embedded Systems  
 
 ---
