@@ -2,10 +2,10 @@
 
 <h1 align="center">Munachimso Henry</h1> <p align="center"><i>Embedded Systems | Robotics Research | Electronics Design | STEM Education <br> Building to solve problems.</i></p> 
 <p align="center"> 
-<img src="https://img.shields.io/badge/🎓%20Covenant_University-EEE_Undergrad-green?style=flat-square" />
-<img src="https://img.shields.io/badge/IEEE-I%26M_Society-00629B?style=flat-square&logo=ieee&logoColor=white" /> 
-<img src="https://img.shields.io/badge/GDG-Robotics_Lead-red?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/YouTube-STEM Educator-A220F4?style=flat-square&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/🎓%20Covenant_University-EEE_Undergrad-green?style=flat-square" /> 
+<img src="https://img.shields.io/badge/IEEE-I%26M_Society-00629B?style=flat-square&logo=ieee&logoColor=white" />  
+<img src="https://img.shields.io/badge/GDG-Robotics_Lead-red?style=flat-square&logo=google&logoColor=white" /> 
+<img src="https://img.shields.io/badge/YouTube-STEM Educator-A220F4?style=flat-square&logo=youtube&logoColor=white" /> 
 </p>
 
 I write bare-metal C for microcontrollers (mostly the Pico and STM32), and do work on the maths behind robotics. I build electronics and teach engineering online. All-round amazing person if you ask me. Recently been 
