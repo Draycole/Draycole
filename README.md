@@ -18,7 +18,7 @@ working on driving an ST7735 TFT slimsies over raw SPI, streaming IMU data into 
 <!--<div align="center">📡 Student Member, IEEE Instrumentation & Measurement Soceity</div>
 <!--<div align="center"> • </div>-->
 
-
+  
 ---
 
 ## ⚡ Stack
