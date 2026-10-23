@@ -32,7 +32,7 @@ I write bare-metal C for microcontrollers (mostly the Pico and STM32), and do wo
 ## 🚀 Featured Projects
 - **[Display Driver](https://munachimsohenry.wixsite.com/my-site/pico-st7735)** – Display driver for the ST7735 LCD Chip. 81-90% Efficiency on SPI bus throughput
 - **[Drone Orientation Simulation](https://munachimsohenry.wixsite.com/my-site/drone-simulator)** – A PyBullet Digital Twin mirroring actions from an irl accelerometer.
-- **[Inverse Kinematics](https://munachimsohenry.wixsite.com/my-site/atlas)** – A security system using laser, photoresistor, and IR override.
+- **[Inverse Kinematics Solver](https://munachimsohenry.wixsite.com/my-site/atlas)** – A security system using laser, photoresistor, and IR override.
 - **[Binary Calculator](https://github.com/Kohwarien-Onotoghene/Automated-Wastebin-SWEP2025)** – Binary LED arithmetic unit   
 - **[Auto Smart Bin](https://github.com/Kohwarien-Onotoghene/Automated-Wastebin-SWEP2025)** – Automated ultrasonic-based wastebin.
 - **[AtmosLog](https://munachimsohenry.wixsite.com/my-site/copy-of-project-5-pyrosafe-monitor)** – Environment temperature/humidity monitor with to SD card, display & Bluetooth and Python live graph.  
