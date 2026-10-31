@@ -11,6 +11,7 @@
 I write bare-metal C for microcontrollers (mostly the Pico and STM32), and do work on the maths behind robotics. I build electronics and teach engineering online. All-round amazing person if you ask me. Recently finished working on driving an ST7735 LCD over raw SPI, and an RL model for balancing an inverted pendulum. Currently working on different RL models in MuJoCo, streaming IMU data into a physics sim, and deriving an inverted pendulum's control law from the Lagrangian. <!-- thinking of new edits (changes to overview) [research work?]-->
 
 <!--
+
 <div align="center">🎓 Electrical & Electronics Engineering @ Covenant University</div>
 <!--<div align="center"> • </div>-->
 <!--<div align="center"> 🤖 Robotics Co-lead @ Google Developer Student Clubs</div>
