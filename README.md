@@ -13,7 +13,7 @@ I write bare-metal C for microcontrollers (mostly the Pico and STM32), and do wo
 <!--
 restructuring landing readme     
 <div align="center">🎓 Electrical & Electronics Engineering @ Covenant University</div>
-<!--<div align="center"> • </div>-->
+<!--<div align="center">   • </div>-->
 <!--<div align="center"> 🤖 Robotics Co-lead @ Google Developer Student Clubs</div>    
 <!--<div align="center"> • </div> -->     
 <!--<div align="center">📡 Student Member, IEEE Instrumentation & Measurement Soceity</div>
